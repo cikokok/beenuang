@@ -38,16 +38,6 @@
       "image_link": "https://godev3.zikristudio.com/twibbonidulfitri/ramadhan/frame26.webp"
 
     },
-         {
-      "category": "Valentine",
-      "image_link": "https://godev3.zikristudio.com/twibbonidulfitri/valentineday/frame43.webp"
-
-    },
-          {
-      "category": "imlek",
-      "image_link": "https://godev3.zikristudio.com/twibbonidulfitri/imlek/frame07.webp"
-
-    },
           {
       "category": "HUT Korpri",
       "image_link": "https://godev3.zikristudio.com/twibbonidulfitri/korpri/frame15.webp"
@@ -69,21 +59,6 @@
 
     },
     {
-      "category": "Idul Fitri 2022",
-      "image_link": "https://godev3.zikristudio.com/twibbonidulfitri/idul%20fitri/fitri02.webp"
-
-    },
-    {
-      "category": "Eid Mubarak 2022",
-      "image_link": "https://zikristudio.com/Idul%20Fitri/frame2.png"
-
-    },
-    {
-      "category": "Ramadan Kareem 2022",
-      "image_link": "https://zikristudio.com/Idul%20Fitri/ramadhan/ramadhan2.png"
-
-    },
-    {
       "category": "Jumma Mubarak",
       "image_link": "https://zikristudio.com/Idul%20Fitri/jumat/jumat01.png"
 
@@ -94,12 +69,6 @@
 
 
     },
-    {
-      "category": "Idul Adha 2022",
-      "image_link": "https://godev3.zikristudio.com/twibbonidulfitri/iduladha/adha01.png"
-    
-    }
-    ,
     {
       "category": "Calendar Frame",
       "image_link": "https://godev3.zikristudio.com/kalenderframe/kalender.png"
