@@ -4,13 +4,13 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111s",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712s",
       "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
       "backup_ads_natives":"",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
-      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294s",
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
@@ -94,12 +94,6 @@
     }
     ,
     {
-      "category": "Mecca Frames",
-      "image_link": "https://godev3.zikristudio.com/meccaframes/512.png"
-    
-    }
-    ,
-    {
       "category": "Tahun Baru Islam",
       "image_link": "https://godev3.zikristudio.com/tahunbaruislam/islam.png"
     
@@ -108,11 +102,6 @@
     {
       "category": "Hari Anak Yatim",
       "image_link": "https://godev3.zikristudio.com/twibbonidulfitri/anakyatim/yatim5.png"
-    
-    },
-    {
-      "category": "Hari Pramuka Nasional",
-      "image_link": "https://godev3.zikristudio.com/twibbonidulfitri/pramuka/ss.jpg"
     
     },
     {
@@ -159,21 +148,6 @@
      {
       "category": "Family Frame",
       "image_link": "https://godev3.zikristudio.com/twibbonidulfitri/harispesial/happyfamily/FAMILY.webp"
-    
-    },
-     {
-      "category": "Border Profil",
-      "image_link": "https://godev3.zikristudio.com/twibbonidulfitri/harispesial/borderprofil/48.webp"
-    
-    },
-     {
-      "category": "Royal Frame",
-      "image_link": "https://godev3.zikristudio.com/twibbonidulfitri/harispesial/royal/6.webp"
-    
-    },
-     {
-      "category": "Hall Frame",
-      "image_link": "https://godev3.zikristudio.com/twibbonidulfitri/harispesial/hall/screen-3.webp"
     
     },
      {
