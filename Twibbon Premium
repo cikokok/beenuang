@@ -35,7 +35,7 @@
 
     },
     {
-      "category": "NU",
+      "category": "Nahdatul Ulama",
       "image_link": "https://archive.org/download/2_20240129_20240129_1430/1.png"
 
     },
@@ -79,16 +79,16 @@
     {
       "id": 3,
       "type": 1,
-      "category": "NU",
+      "category": "Nahdatul Ulama",
       "title": "Hari Lahir NU",
       "image_link": "https://archive.org/download/2_20240129_20240129_1430/1.png"
     },
     {
       "id": 4,
       "type": 1,
-      "category": "Lain-Lain",
-      "title": "Selamat Tahun Baru Imlek 2",
-      "image_link": "rectangle/imlek2.png"
+      "category": "Nahdatul Ulama",
+      "title": "Hari Lahir NU 1",
+      "image_link": "https://archive.org/download/2_20240129_20240129_1430/2"
     },
     {
       "id": 5,
