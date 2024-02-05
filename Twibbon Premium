@@ -64,10 +64,10 @@
   "Item": [
     {
       "id": 1,
-      "type": 1,
-      "category": "Hari Nasional",
-      "title": "Hari Persatuan Farmasi Indonesia",
-      "image_link": "rectangle/farmasi.png"
+     "type": 1,
+      "category": "Nahdatul Ulama",
+      "title": "Hari Lahir NU 1",
+      "image_link": "https://archive.org/download/2_20240129_20240129_1430/5.png"
     },
     {
       "id": 2,
@@ -157,16 +157,16 @@
     {
       "id": 14,
       "type": 1,
-      "category": "Lain-Lain",
-      "title": "Wallpaper Imlek",
-      "image_link": "rectangle/wallpaper_imlek.png"
+      "category": "Nahdatul Ulama",
+      "title": "Hari Lahir NU 1",
+      "image_link": "https://archive.org/download/2_20240129_20240129_1430/3.png"
     },
     {
       "id": 19,
       "type": 1,
-      "category": "Lain-Lain",
-      "title": "Wallpaper Imlek 2",
-      "image_link": "rectangle/wallpaper_imlek2.png"
+      "category": "Nahdatul Ulama",
+      "title": "Hari Lahir NU 1",
+      "image_link": "https://archive.org/download/2_20240129_20240129_1430/4.png"
     },
     {
       "id": 15,
