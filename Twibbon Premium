@@ -43,7 +43,12 @@
       "category": "Keagamaan",
       "image_link": "rectangle/israa.png"
 
-    },
+    },,
+    {
+      "category": "Ramadan",
+      "image_link": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPARwzOdILNBjxOt6vyMakE1GPqKMcOTjwVwa4ayUX5nhhpYIh11rICkLv-nFZZfvp_MGhXWZoAZOvXITgUT_ikJKs8i8t4-G7WLPyULpaPrzvlDP1BQjaGsonY7gtPHnN9B3TMYU-apK8gX-Vb4_NQUgGTUFsOZmU8rGtwQ6llfFRug8UukcZN-KsdSI/s320/ramadhan10.png"
+
+    }
     {
       "category": "Kalender",
       "image_link": "rectangle/kalender1.png"
@@ -300,6 +305,13 @@
       "category": "Ulang Tahun",
       "title": "Ulang Tahun 4",
       "image_link": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV4hO1QbvqXyFFhf7hr9OMflhARo5daPEPZGq8hGGqVRY3lJXspjkeoSqeCCX-ZXXDOvK1EqEuePxmrk-5ah0YVsWQDgYc1oKXyxskUqoNPUDO4-pqvwjI-SGdE4aj1knC9iMfiQRhg1rbrJrhw08br-yHEnuscpoARDmXLIsdkNCwPpinSWc2vYZYG98/s320/ultah1.png"
+    },
+    {
+      "id": 34,
+      "type": 1,
+      "category": "Ramadan",
+      "title": "Marhaban Ramadan",
+      "image_link": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwCDakI9143XQ2JEefLJr6H07GCYsfrNNj5rcEbf8nO_XHLsv0PTLK6d0oDSBEMHx7X5dlrFKyHtxtTkT-1Ooy_KUstMZMstsunUHSREqVsDdjcXYKGczsb8A_6Hd_nNjfy7WF0g2ACzOrIsbXuPPPmFtS83oDoxQVeBekzYMbvFSVY1Gmccl_OUJy1cY/s320/ramadhan12.png"
     }
   ]
 }
